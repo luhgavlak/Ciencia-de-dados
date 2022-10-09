@@ -6,6 +6,8 @@ Nosso desafio é conseguir prever as vendas que vamos ter em determinado períod
 
 - Vendas estão em milhões
 
+Base de Dados: https://drive.google.com/drive/folders/1o2lpxoi9heyQV1hIlsHXWSfDkBPtze-V?usp=sharing
+
 ---
 
 *Intensivo de Python pela Hashtag Programação*
